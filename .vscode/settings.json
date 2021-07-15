@@ -26,5 +26,20 @@
     "python.formatting.provider": "yapf",
     "[json]": {
 	    "editor.formatOnSave": false
-    }
+    },
+    "cSpell.words": [
+        "BSPC",
+        "GESC",
+        "LALT",
+        "LCTL",
+        "LGUI",
+        "LSFT",
+        "PDOT",
+        "PSLS",
+        "RGHT",
+        "SCLN",
+        "SLSH",
+        "TRNS",
+        "preonic"
+    ]
 }
